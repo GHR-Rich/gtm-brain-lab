@@ -1,0 +1,12 @@
+id,type,name,source_id,review_status
+ACCT-001,account,AlderWorks,CRM-001,candidate
+PERSON-001,person,Jordan Lee,CRM-001,candidate
+SYS-001,system,Salesforce,CRM-001,candidate
+CALL-001,event,Discovery call (2026-10-19),CALL-001,candidate
+NEED-001,customer_need,Reps prepare from scattered notes and sometimes outdated product information,CALL-001,candidate
+NEED-002,customer_question,Does SignalNest connect directly to Salesforce?,CALL-001,candidate
+NEED-003,customer_request,See supplied call notes become a useful preparation brief,CALL-001,candidate
+MEET-001,event,Follow-up meeting (October 27 suggested; not confirmed),CALL-001,candidate
+PRODUCT-001,product,SignalNest,PROD-001,candidate
+CAP-001,capability,Preparation drafts from supplied notes and approved reference documents,PROD-001,candidate
+CAP-002,capability,Manually supplied Salesforce export (native integration not generally available),PROD-001,candidate
